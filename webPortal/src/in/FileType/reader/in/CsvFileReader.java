@@ -17,8 +17,7 @@ public class CsvFileReader {
 			emp.setEmpId(record[0]);
 			emp.setName(record[1]);
 			model.add(emp);
-			System.out.println("Test Case");
-			System.out.println("testCase 2");
+			
 		}
 
 		
